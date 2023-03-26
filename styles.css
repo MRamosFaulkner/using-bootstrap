@@ -1,0 +1,34 @@
+ body{
+    background-color: #EFCFA0;
+}
+
+.top {
+}
+.navbar-brand {
+    font-family: 'Great Vibes', cursive;
+    font-size: 4vw;
+}
+.hero {
+    font-family: 'Great Vibes', cursive; 
+    text-indent: 5%;  
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+h2 {
+    font-family: DM Serif Display, serif;
+    font-size: 80px;
+}
+
+
+/* .top ul li {
+    height: 30px;
+    font-size: px;
+    display: flex;
+    float:left;
+} */
+.reserve {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
+
